@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     ImageView img1;
     ImageView img2;
     Button bttn;
-    String url1 = "http://pokeapi.co/api/v2/pokemon/5";
+    String url1 = "http://pokeapi.co/api/v2/pokemon/sri";
     String url2 = "http://pokeapi.co/api/v2/pokemon/6";
 
 
